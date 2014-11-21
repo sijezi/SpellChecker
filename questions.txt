@@ -1,0 +1,13 @@
+0.  pneumonoultramicroscopicsilicovolcanoconiosis is a type of lung disease caused by
+    inhaling fine dust (Oxford Dictioanary). 
+1.  getrusage returns information about resource usage in the structure pointed.
+2.  There are 16 variable types
+3.  It helps to get the reference point before and after functions are run allowing to see actual values.
+4.  The main function utilizes fp() function to open files. Afterwards, the fgetc loops over the characters in
+    in the fp() funciton where the checks are done. 
+5.  Fscan does not allow us to check strings that contain digits and commas.
+6.  Constants cannot be changed, they are static operator which is used the same way over and over.
+7.  I used the trie data structure.
+8.  For the first time, the total time was TIME IN TOTAL: 2.80
+9.  I have not been able to make much changes as I have not really grasped the fundamental aspects of this program.
+10. I thought that checking for the special characters created a bottleneck and slowed the whole process down.
